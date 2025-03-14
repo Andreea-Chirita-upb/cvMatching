@@ -12,7 +12,7 @@ This application automates the process of matching job candidates' CVs with job 
 ## Technologies Used
 - **Flowise**: Used for building the workflow and integrating Large Language Models (LLMs) to power the matching algorithm. 
   - **LLM Chains**: Utilized LLM chains to create a structured flow for processing input and generating results.
-  - **Prompt Engineering**: Crafted custom prompts using advanced prompt engineering techniques to enhance the accuracy of the matching algorithm.
+  - **Prompt Engineering**: Write custom prompts using prompt engineering techniques to enhance the accuracy of the matching algorithm.
   - **Advanced Structured Output Parsers**: Integrated advanced parsers to structure and analyze the output data for better decision-making and filtering.
   - **ZOD Schemas**: Employed ZOD schemas to define and validate data structures and ensure consistent results across different inputs.
   

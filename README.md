@@ -13,7 +13,7 @@ This application automates the process of matching job candidates' CVs with job 
 - **Flowise**: Used for building the workflow and integrating Large Language Models (LLMs) to power the matching algorithm. 
   - **LLM Chains**: Utilized LLM chains to create a structured flow for processing input and generating results.
   - **Prompt Engineering**: Write custom prompts using prompt engineering techniques to enhance the accuracy of the matching algorithm.
-  - **Advanced Structured Output Parsers**: Integrated advanced parsers to structure and analyze the output data for better decision-making and filtering.
+  - **Advanced Structured Output Parsers**: Integrated advanced parsers to structure and analyze the output data 
   - **ZOD Schemas**: Employed ZOD schemas to define and validate data structures and ensure consistent results across different inputs.
   
 - **Frontend**: Built the user interface using **HTML**, **CSS**, and **JavaScript** to ensure responsiveness and ease of use.
@@ -22,7 +22,7 @@ This application automates the process of matching job candidates' CVs with job 
 
 1. **Upload CV**: Choose the CV file of the candidate (in PDF, DOCX, or plain text format) by clicking on the "Upload CV" button.
    
-2. **Upload Job Description**: Similarly, upload the job description file using the "Upload Job Description" button.
+2. **Upload Job Description**: Similarly, upload the job description as plain text
 
 3. **Generate Match Score**: Click the **"Generate Match Score"** button to process the inputs and generate the match score based on how well the CV aligns with the job description.
 
